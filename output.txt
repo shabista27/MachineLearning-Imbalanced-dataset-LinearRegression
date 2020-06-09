@@ -1,0 +1,95 @@
+
+Cross-validation iteration: 1 
+
+Confusion matrix:
+29 0 0 1 0
+1 0 0 0 0
+5 0 1 0 0
+5 0 0 1 0
+3 0 0 0 0
+Class-wise accuracy
+0.9666666666666667
+0.0
+0.16666666666666666
+0.16666666666666666
+0.0
+
+Cross-validation iteration: 2 
+
+Confusion matrix:
+30 0 0 0 0
+0 0 1 0 0
+3 0 0 1 1
+3 0 1 3 0
+1 0 0 0 2
+Class-wise accuracy
+1.0
+0.0
+0.0
+0.42857142857142855
+0.6666666666666666
+
+Cross-validation iteration: 3 
+
+Confusion matrix:
+30 0 0 0 0
+0 0 1 0 0
+3 0 1 0 1
+2 0 2 3 0
+0 0 0 2 1
+Class-wise accuracy
+1.0
+0.0
+0.2
+0.42857142857142855
+0.3333333333333333
+
+Cross-validation iteration: 4 
+
+Confusion matrix:
+28 0 1 0 0
+0 0 0 2 0
+0 0 3 2 0
+0 0 1 4 2
+0 1 0 1 1
+Class-wise accuracy
+0.9655172413793104
+0.0
+0.6
+0.5714285714285714
+0.3333333333333333
+
+Cross-validation iteration: 5 
+
+Confusion matrix:
+25 0 0 4 0
+0 1 0 0 0
+0 3 0 3 0
+0 2 1 3 0
+0 0 1 2 1
+Class-wise accuracy
+0.8620689655172413
+1.0
+0.0
+0.5
+0.25
+
+Stratified K-fold cross-validation score: 0.726087
+Random-split cross-validation score (100 runs): 0.736957
+
+Result on undiagnosed data
+
+Subject Name, Subject ID, Predicted Category, Actual Category
+Chheda 1025 0.0 1.0
+Kulkarni 2023 2.0 1.0
+Shah 5011 0.0 2.0
+Oswal 1026 0.0 2.0
+Koli 1028 0.0 3.0
+Tadavi 1024 0.0 3.0
+Kokate 2022 0.0 3.0
+Sawale 3007 0.0 3.0
+Singhi 3008 0.0 3.0
+Baijuraj 5012 0.0 3.0
+Kulkarni 3010 0.0 3.0
+Hublikar 5014 0.0 3.0
+Tom 3302 0.0 4.0

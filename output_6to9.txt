@@ -1,0 +1,84 @@
+
+Cross-validation iteration: 1 
+
+Confusion matrix:
+24 1 0 0 1
+0 0 0 0 0
+1 0 0 1 0
+1 0 0 0 0
+1 0 0 0 0
+Class-wise accuracy
+0.9230769230769231
+nan
+0.0
+0.0
+0.0
+
+Cross-validation iteration: 2 
+
+Confusion matrix:
+24 0 1 0
+1 0 0 0
+1 0 0 0
+2 0 0 0
+Class-wise accuracy
+0.96
+0.0
+0.0
+0.0
+
+Cross-validation iteration: 3 
+
+Confusion matrix:
+23 0 2 0
+1 1 0 0
+1 0 0 0
+1 0 0 0
+Class-wise accuracy
+0.92
+0.5
+0.0
+0.0
+
+Cross-validation iteration: 4 
+
+Confusion matrix:
+25 0 0 0
+2 0 0 0
+1 0 0 0
+1 0 0 0
+Class-wise accuracy
+1.0
+0.0
+0.0
+0.0
+
+Cross-validation iteration: 5 
+
+Confusion matrix:
+23 0 2 0
+1 1 0 0
+0 0 1 0
+0 1 0 0
+Class-wise accuracy
+0.92
+0.5
+1.0
+0.0
+
+Stratified K-fold cross-validation score: 0.835862
+Random-split cross-validation score (100 runs): 0.832333
+
+Result on undiagnosed data
+
+Subject Name, Subject ID, Predicted Category, Actual Category
+Chheda 1025 0.0 1.0
+Shah 5011 0.0 2.0
+Oswal 1026 0.0 2.0
+Koli 1028 3.0 3.0
+Tadavi 1024 0.0 3.0
+Kokate 2022 0.0 3.0
+Sawale 3007 3.0 3.0
+Singhi 3008 0.0 3.0
+Baijuraj 5012 0.0 3.0
+Tom 3302 0.0 4.0
